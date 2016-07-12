@@ -1,0 +1,1 @@
+# Praktika_2016_qt
